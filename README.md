@@ -10,7 +10,7 @@ documentation used in this project
 -CSS3
 -JQUERY
 -font-awsome Framework for icons
--smoth scroll Framework (fir nice scrool ).
+-niceScroll Framework
 -bootstrap silder.
 -responsive design with mobile ipad & iphone Desktop
 
